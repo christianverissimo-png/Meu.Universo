@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+       <meta charset="UTF-8">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <title>Meu Universo</title>
+       <style>
+        header{
+            background-color:#2F0A4B;
+            color:#57BA22;
+            text-align: center;
+            max-width: 1400px;
+            margin: 0 auto;
+            border: 7px solid #cf1010;
+            padding: 16px;
+        }
+        main{ 
+            text-align: center;
+            background-color: #ffffff;
+            color: 5px solid #ce0808;
+        }
+       </style>
+   </head>
+ <body>
+    <header>
+        <h1>Meu Universo</h1>
+        <p>Um espaço para compartilhar sobre conhecimentos, hobbies, cultura, curiosidades, descobertas e tudo aquilo que faz parte da minha jornada</p>
+    </header>
+        <main>
+            <img src="" alt="">
+        <h2>Apresentação</h2>
+        <p>Olá! Sejam bem-vindos, meu nome é Christian. Aqui irei compartilhar sobre o meu cotidiano, curiosidades relacionados a mim e a minha cultura.</p>
+    </main>
+ </body>
+</html>
